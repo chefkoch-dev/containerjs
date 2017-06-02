@@ -1,0 +1,13 @@
+{
+  "name": "chefkoch-containerjs",
+  "version": "1.0.0",
+  "description": "This repository provides Chefkoch's preferred dependency injection container for javascript.",
+  "main": "container.js",
+  "module": "container.js",
+  "repository": "git@github.com:chefkoch-dev/containerjs.git",
+  "author": "Per Bernhardt",
+  "license": "MIT",
+  "dependencies": {
+    "bottlejs": "^1.6.1"
+  }
+}
