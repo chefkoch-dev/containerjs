@@ -1,6 +1,6 @@
 {
   "name": "chefkoch-containerjs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This repository provides Chefkoch's preferred dependency injection container for javascript.",
   "main": "container.js",
   "module": "container.js",
