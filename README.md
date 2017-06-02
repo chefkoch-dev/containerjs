@@ -16,7 +16,7 @@ We strongly recommend you use `yarn` but you can also use `npm install <packageâ
 Afterwards, you can start using the container in your javascript code:
 
 ```js
-const container = require('chefkoch-containerjs');
+import container from 'chefkoch-containerjs';
 
 // Define some constructors
 function Knife() {
@@ -44,7 +44,7 @@ container.factory('another-cook', c => {
 
 // Use your services...
 const cook = container.get('cook');
-cook.preareMeal(['Tomato', 'Cucumber']);
+cook.prepareMeal(['Tomato', 'Cucumber']);
 
 ```
 
