@@ -1,7 +1,7 @@
 # Chefkoch containerjs
 
 This repository provides Chefkoch's preferred dependency injection container for javascript.
-It is a simple wrapper for the great (bottle.js)[https://github.com/young-steveo/bottlejs], that has an interface more familiar to our developers that mostly work with php and the Symfony dependency injection container. 
+It is a simple wrapper for the great [bottle.js](https://github.com/young-steveo/bottlejs), that has an interface more familiar to our developers that mostly work with php and the Symfony dependency injection container. 
 
 ## Usage
 
